@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quidcensueritso00manngoog_0007.png"; bbox 0 0 860 1360; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 159 68 403 123">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 159 68 403 123">
+     <span class='ocr_line' id='line_1_1' title="bbox 159 68 403 123; baseline 0.008 -2"><span class='ocrx_word' id='word_1_1' title='bbox 159 68 379 123; x_wconf 40' lang='lat' dir='ltr'><em>Ceam-251&gt;</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 400 71 403 75; x_wconf 10' lang='lat' dir='ltr'>x</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 144 151 355 228">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 144 151 355 228">
+     <span class='ocr_line' id='line_1_2' title="bbox 144 151 355 228; baseline -0.009 -28"><span class='ocrx_word' id='word_1_3' title='bbox 144 151 355 228; x_wconf 42' lang='grc' dir='ltr'><em>κω».</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 281 249 503 309">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 281 249 503 309">
+     <span class='ocr_line' id='line_1_3' title="bbox 281 249 503 309; baseline -0.005 -23"><span class='ocrx_word' id='word_1_4' title='bbox 281 263 361 309; x_wconf 44' lang='lat' dir='ltr'><em>mss!</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 374 249 444 293; x_wconf 41' lang='grc' dir='ltr'><em>ῥήξω</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 453 281 455 284; x_wconf 77' lang='grc'>,</span> <span class='ocrx_word' id='word_1_7' title='bbox 467 264 503 283; x_wconf 58' lang='grc' dir='ltr'><em>θ’</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 339 292 387 316">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 339 292 387 316">
+     <span class='ocr_line' id='line_1_4' title="bbox 339 292 387 316; baseline 0.042 -2"><span class='ocrx_word' id='word_1_8' title='bbox 339 292 387 316; x_wconf 61' lang='lat' dir='ltr'><em>ssss&#39;</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 320 306 458 346">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 320 306 458 346">
+     <span class='ocr_line' id='line_1_5' title="bbox 320 306 458 346; baseline -0.014 -12"><span class='ocrx_word' id='word_1_9' title='bbox 320 307 456 346; x_wconf 51' lang='lat' dir='ltr'><em>fsssspts</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 434 306 458 322; x_wconf 39' lang='grc' dir='ltr'><em>’ζ’</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 250 346 396 373">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 250 346 396 373">
+     <span class='ocr_line' id='line_1_6' title="bbox 250 346 396 373; baseline -0.016 0.063"><span class='ocrx_word' id='word_1_11' title='bbox 250 346 396 373; x_wconf 52' lang='lat' dir='ltr'><em>‘slntwcvu‘t</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 407 329 609 393">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 407 329 609 393">
+     <span class='ocr_line' id='line_1_7' title="bbox 407 329 609 393; baseline -0.019 -26.303"><span class='ocrx_word' id='word_1_12' title='bbox 407 341 485 393; x_wconf 48' lang='lat' dir='ltr'><em>issa!</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 487 329 609 368; x_wconf 46' lang='lat' dir='ltr'><em>‘fialam</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
